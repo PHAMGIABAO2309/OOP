@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// cho phép người dùng viết mã và thực thi ngay sau đó
+// Khai báo trực tiếp ngay bên trong delegate với cặp dấu {} và dấu chấm phẩy cuối cùng
 namespace ViduAnonymous
 {
     class Program
