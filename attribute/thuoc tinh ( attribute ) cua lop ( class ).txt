@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: attribute, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>attribute -> C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 5:41 CH and took 00,556 seconds ==========

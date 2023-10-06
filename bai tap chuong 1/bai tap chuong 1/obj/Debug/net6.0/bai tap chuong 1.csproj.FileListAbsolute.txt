@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\bin\Debug\net6.0\bai tap chuong 1.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\bin\Debug\net6.0\bai tap chuong 1.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\bin\Debug\net6.0\bai tap chuong 1.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\bin\Debug\net6.0\bai tap chuong 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\bin\Debug\net6.0\bai tap chuong 1.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\refint\bai tap chuong 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\bai tap chuong 1.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap chuong 1\bai tap chuong 1\obj\Debug\net6.0\ref\bai tap chuong 1.dll

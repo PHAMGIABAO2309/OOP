@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\bin\Debug\net6.0\attribute.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\refint\attribute.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\attribute.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\attribute\attribute\obj\Debug\net6.0\ref\attribute.dll
