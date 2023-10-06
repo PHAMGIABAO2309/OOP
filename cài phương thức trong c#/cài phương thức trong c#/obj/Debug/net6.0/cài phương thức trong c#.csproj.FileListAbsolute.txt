@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\bin\Debug\net6.0\cài phương thức trong c#.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\bin\Debug\net6.0\cài phương thức trong c#.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\bin\Debug\net6.0\cài phương thức trong c#.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\bin\Debug\net6.0\cài phương thức trong c#.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\bin\Debug\net6.0\cài phương thức trong c#.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\refint\cài phương thức trong c#.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\cài phương thức trong c#.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\cài phương thức trong c#\obj\Debug\net6.0\ref\cài phương thức trong c#.dll

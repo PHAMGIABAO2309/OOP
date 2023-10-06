@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\bin\Debug\net6.0\Phương thức Delegate.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\bin\Debug\net6.0\Phương thức Delegate.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\bin\Debug\net6.0\Phương thức Delegate.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\bin\Debug\net6.0\Phương thức Delegate.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\bin\Debug\net6.0\Phương thức Delegate.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\refint\Phương thức Delegate.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\Phương thức Delegate.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Delegate\Phương thức Delegate\Phương thức Delegate\obj\Debug\net6.0\ref\Phương thức Delegate.dll

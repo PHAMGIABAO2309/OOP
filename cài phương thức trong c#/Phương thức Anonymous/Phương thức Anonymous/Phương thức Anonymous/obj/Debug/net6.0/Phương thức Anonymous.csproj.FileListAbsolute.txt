@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\bin\Debug\net6.0\Phương thức Anonymous.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\bin\Debug\net6.0\Phương thức Anonymous.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\bin\Debug\net6.0\Phương thức Anonymous.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\bin\Debug\net6.0\Phương thức Anonymous.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\bin\Debug\net6.0\Phương thức Anonymous.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\refint\Phương thức Anonymous.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\Phương thức Anonymous.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Phương thức Anonymous\Phương thức Anonymous\Phương thức Anonymous\obj\Debug\net6.0\ref\Phương thức Anonymous.dll
