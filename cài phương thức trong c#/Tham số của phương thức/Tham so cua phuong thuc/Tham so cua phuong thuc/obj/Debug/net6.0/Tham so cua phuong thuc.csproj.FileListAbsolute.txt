@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\bin\Debug\net6.0\Tham so cua phuong thuc.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\bin\Debug\net6.0\Tham so cua phuong thuc.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\bin\Debug\net6.0\Tham so cua phuong thuc.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\bin\Debug\net6.0\Tham so cua phuong thuc.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\bin\Debug\net6.0\Tham so cua phuong thuc.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\refint\Tham so cua phuong thuc.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\Tham so cua phuong thuc.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Tham số của phương thức\Tham so cua phuong thuc\Tham so cua phuong thuc\obj\Debug\net6.0\ref\Tham so cua phuong thuc.dll

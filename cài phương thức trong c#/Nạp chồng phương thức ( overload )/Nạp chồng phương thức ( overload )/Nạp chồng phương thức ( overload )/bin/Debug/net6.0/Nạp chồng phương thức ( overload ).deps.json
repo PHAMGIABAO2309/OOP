@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nạp chồng phương thức ( overload )/1.0.0": {
+        "runtime": {
+          "Nạp chồng phương thức ( overload ).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nạp chồng phương thức ( overload )/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

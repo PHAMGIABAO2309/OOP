@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\bin\Debug\net6.0\bài 1.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\bin\Debug\net6.0\bài 1.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\bin\Debug\net6.0\bài 1.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\bin\Debug\net6.0\bài 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\bin\Debug\net6.0\bài 1.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\refint\bài 1.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\bài 1.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bài 1\bài 1\obj\Debug\net6.0\ref\bài 1.dll
