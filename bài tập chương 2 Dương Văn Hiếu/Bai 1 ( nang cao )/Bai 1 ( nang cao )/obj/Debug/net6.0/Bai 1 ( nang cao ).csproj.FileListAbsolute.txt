@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\bin\Debug\net6.0\Bai 1 ( nang cao ).exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\bin\Debug\net6.0\Bai 1 ( nang cao ).deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\bin\Debug\net6.0\Bai 1 ( nang cao ).runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\bin\Debug\net6.0\Bai 1 ( nang cao ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\bin\Debug\net6.0\Bai 1 ( nang cao ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\refint\Bai 1 ( nang cao ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\Bai 1 ( nang cao ).genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\Bai 1 ( nang cao )\Bai 1 ( nang cao )\obj\Debug\net6.0\ref\Bai 1 ( nang cao ).dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\attribute\\attribute\\attribute.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\setting attribute\\attribute\\attribute.csproj",
       "projectName": "attribute",
-      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\attribute\\attribute\\attribute.csproj",
+      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\setting attribute\\attribute\\attribute.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\attribute\\attribute\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\setting attribute\\attribute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

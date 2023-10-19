@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\bin\Debug\net6.0\minh hoa field.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\bin\Debug\net6.0\minh hoa field.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\bin\Debug\net6.0\minh hoa field.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\bin\Debug\net6.0\minh hoa field.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\bin\Debug\net6.0\minh hoa field.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\refint\minh hoa field.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\minh hoa field.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\cài phương thức trong c#\Minh hoa Field\minh hoa field\minh hoa field\obj\Debug\net6.0\ref\minh hoa field.dll
