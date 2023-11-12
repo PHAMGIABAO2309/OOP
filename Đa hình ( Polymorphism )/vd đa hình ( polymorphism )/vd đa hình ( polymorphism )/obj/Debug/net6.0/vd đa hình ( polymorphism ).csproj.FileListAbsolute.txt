@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\bin\Debug\net6.0\vd đa hình ( polymorphism ).exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\bin\Debug\net6.0\vd đa hình ( polymorphism ).deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\bin\Debug\net6.0\vd đa hình ( polymorphism ).runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\bin\Debug\net6.0\vd đa hình ( polymorphism ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\bin\Debug\net6.0\vd đa hình ( polymorphism ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\refint\vd đa hình ( polymorphism ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\vd đa hình ( polymorphism ).genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Đa hình ( Polymorphism )\vd đa hình ( polymorphism )\vd đa hình ( polymorphism )\obj\Debug\net6.0\ref\vd đa hình ( polymorphism ).dll

@@ -1,0 +1,4 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 18\bai 18\bai 18\obj\Debug\net6.0\bai 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 18\bai 18\bai 18\obj\Debug\net6.0\bai 18.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 18\bai 18\bai 18\obj\Debug\net6.0\bai 18.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 18\bai 18\bai 18\obj\Debug\net6.0\bai 18.csproj.CoreCompileInputs.cache

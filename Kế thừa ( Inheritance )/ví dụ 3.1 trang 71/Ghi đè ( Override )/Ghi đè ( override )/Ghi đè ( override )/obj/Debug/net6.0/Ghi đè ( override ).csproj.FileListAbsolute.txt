@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\bin\Debug\net6.0\Ghi đè ( override ).exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\bin\Debug\net6.0\Ghi đè ( override ).deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\bin\Debug\net6.0\Ghi đè ( override ).runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\bin\Debug\net6.0\Ghi đè ( override ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\bin\Debug\net6.0\Ghi đè ( override ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\refint\Ghi đè ( override ).dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\Ghi đè ( override ).genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Ghi đè ( Override )\Ghi đè ( override )\Ghi đè ( override )\obj\Debug\net6.0\ref\Ghi đè ( override ).dll

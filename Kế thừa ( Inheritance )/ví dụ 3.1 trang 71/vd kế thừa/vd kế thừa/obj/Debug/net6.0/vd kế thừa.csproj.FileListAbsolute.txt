@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\bin\Debug\net6.0\vd kế thừa.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\bin\Debug\net6.0\vd kế thừa.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\bin\Debug\net6.0\vd kế thừa.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\bin\Debug\net6.0\vd kế thừa.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\bin\Debug\net6.0\vd kế thừa.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\refint\vd kế thừa.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\vd kế thừa.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\vd kế thừa\vd kế thừa\obj\Debug\net6.0\ref\vd kế thừa.dll

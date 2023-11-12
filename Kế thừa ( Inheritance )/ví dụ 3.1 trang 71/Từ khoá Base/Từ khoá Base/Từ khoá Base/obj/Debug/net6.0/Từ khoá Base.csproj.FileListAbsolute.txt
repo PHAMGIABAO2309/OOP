@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\bin\Debug\net6.0\Từ khoá Base.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\bin\Debug\net6.0\Từ khoá Base.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\bin\Debug\net6.0\Từ khoá Base.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\bin\Debug\net6.0\Từ khoá Base.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\bin\Debug\net6.0\Từ khoá Base.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\refint\Từ khoá Base.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\Từ khoá Base.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Kế thừa ( Inheritance )\ví dụ 3.1 trang 71\Từ khoá Base\Từ khoá Base\Từ khoá Base\obj\Debug\net6.0\ref\Từ khoá Base.dll

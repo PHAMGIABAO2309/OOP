@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\bin\Debug\net6.0\bai 20.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\bin\Debug\net6.0\bai 20.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\bin\Debug\net6.0\bai 20.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\bin\Debug\net6.0\bai 20.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\bin\Debug\net6.0\bai 20.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\refint\bai 20.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\bai 20.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 2 Dương Văn Hiếu\bai 20\bai 20\bai 20\obj\Debug\net6.0\ref\bai 20.dll

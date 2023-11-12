@@ -20,7 +20,7 @@ namespace Chuong2_Bai1
             Int32 i;
             S = 0;
             for (i = 1; i <= n; i++)
-                S = S + (Double)1 / i;
+                S = S + 1.0 / i;
             return S;
         }
     }
