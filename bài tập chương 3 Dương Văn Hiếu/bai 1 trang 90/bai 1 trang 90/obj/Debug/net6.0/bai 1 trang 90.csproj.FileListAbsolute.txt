@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\bin\Debug\net6.0\bai 1 trang 90.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\bin\Debug\net6.0\bai 1 trang 90.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\bin\Debug\net6.0\bai 1 trang 90.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\bin\Debug\net6.0\bai 1 trang 90.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\bin\Debug\net6.0\bai 1 trang 90.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\refint\bai 1 trang 90.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\bai 1 trang 90.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\bai 1 trang 90\bai 1 trang 90\obj\Debug\net6.0\ref\bai 1 trang 90.dll

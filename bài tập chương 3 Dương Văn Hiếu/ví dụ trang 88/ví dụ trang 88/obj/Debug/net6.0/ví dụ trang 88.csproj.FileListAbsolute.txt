@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\bin\Debug\net6.0\ví dụ trang 88.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\bin\Debug\net6.0\ví dụ trang 88.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\bin\Debug\net6.0\ví dụ trang 88.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\bin\Debug\net6.0\ví dụ trang 88.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\bin\Debug\net6.0\ví dụ trang 88.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\refint\ví dụ trang 88.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ví dụ trang 88.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\ví dụ trang 88\ví dụ trang 88\obj\Debug\net6.0\ref\ví dụ trang 88.dll
