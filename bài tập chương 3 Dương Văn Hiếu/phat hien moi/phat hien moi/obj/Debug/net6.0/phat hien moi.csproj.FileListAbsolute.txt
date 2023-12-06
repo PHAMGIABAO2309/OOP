@@ -1,0 +1,4 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\phat hien moi\phat hien moi\obj\Debug\net6.0\phat hien moi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\phat hien moi\phat hien moi\obj\Debug\net6.0\phat hien moi.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\phat hien moi\phat hien moi\obj\Debug\net6.0\phat hien moi.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bài tập chương 3 Dương Văn Hiếu\phat hien moi\phat hien moi\obj\Debug\net6.0\phat hien moi.csproj.CoreCompileInputs.cache

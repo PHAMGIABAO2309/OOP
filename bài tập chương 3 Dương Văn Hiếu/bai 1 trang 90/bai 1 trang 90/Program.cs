@@ -40,6 +40,24 @@ namespace bai1
             Console.WriteLine(" - {0}d ", sosanpham * 2000);
         }
     }
+    class NVQUANLY : NHANVIEN
+    {
+        int luongcoban;
+        int hesoluong;
+        public override void Nhap()
+        {
+            base.Nhap();
+            Console.Write("Nhap luong co ban: ");
+            luongcoban = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Nhap he so: ");
+            hesoluong = Convert.ToInt32(Console.ReadLine());
+        }
+        public override void Xuat()
+        {
+            base.Xuat();
+            Console.WriteLine(" - {0} ", luongcoban * hesoluong);
+        }
+    }
     class DSNVSX
     {
         NVSANXUAT[] DS;
