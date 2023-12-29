@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "luong giao vien/1.0.0": {
+        "runtime": {
+          "luong giao vien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "luong giao vien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

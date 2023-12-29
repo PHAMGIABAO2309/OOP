@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\bin\Debug\net6.0\bai kiem tra.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\bin\Debug\net6.0\bai kiem tra.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\bin\Debug\net6.0\bai kiem tra.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\bin\Debug\net6.0\bai kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\bin\Debug\net6.0\bai kiem tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\refint\bai kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\bai kiem tra.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\bai kiem tra\bai kiem tra\obj\Debug\net6.0\ref\bai kiem tra.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\bin\Debug\net6.0\TAMGIAC.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\bin\Debug\net6.0\TAMGIAC.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\bin\Debug\net6.0\TAMGIAC.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\bin\Debug\net6.0\TAMGIAC.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\bin\Debug\net6.0\TAMGIAC.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\refint\TAMGIAC.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\TAMGIAC.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\TAMGIAC\obj\Debug\net6.0\ref\TAMGIAC.dll

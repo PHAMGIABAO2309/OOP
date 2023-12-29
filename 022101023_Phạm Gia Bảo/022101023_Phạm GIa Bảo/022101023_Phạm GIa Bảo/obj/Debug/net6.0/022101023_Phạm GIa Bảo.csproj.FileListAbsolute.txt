@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\bin\Debug\net6.0\022101023_Phạm GIa Bảo.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\bin\Debug\net6.0\022101023_Phạm GIa Bảo.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\bin\Debug\net6.0\022101023_Phạm GIa Bảo.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\bin\Debug\net6.0\022101023_Phạm GIa Bảo.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\bin\Debug\net6.0\022101023_Phạm GIa Bảo.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\refint\022101023_Phạm GIa Bảo.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\022101023_Phạm GIa Bảo.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\022101023_Phạm Gia Bảo\022101023_Phạm GIa Bảo\022101023_Phạm GIa Bảo\obj\Debug\net6.0\ref\022101023_Phạm GIa Bảo.dll

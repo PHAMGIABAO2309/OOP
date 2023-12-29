@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\bin\Debug\net6.0\Hoá Đơn.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\bin\Debug\net6.0\Hoá Đơn.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\bin\Debug\net6.0\Hoá Đơn.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\bin\Debug\net6.0\Hoá Đơn.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\bin\Debug\net6.0\Hoá Đơn.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\refint\Hoá Đơn.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\Hoá Đơn.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\Hoá Đơn\Hoá Đơn\obj\Debug\net6.0\ref\Hoá Đơn.dll

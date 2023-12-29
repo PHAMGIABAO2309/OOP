@@ -1,0 +1,4 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\obj\Debug\net7.0\TAMGIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\obj\Debug\net7.0\TAMGIAC.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\obj\Debug\net7.0\TAMGIAC.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\TAMGIAC\obj\Debug\net7.0\TAMGIAC.csproj.CoreCompileInputs.cache

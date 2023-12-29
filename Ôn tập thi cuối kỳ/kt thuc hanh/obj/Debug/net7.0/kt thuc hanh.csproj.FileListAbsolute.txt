@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\bin\Debug\net7.0\kt thuc hanh.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\bin\Debug\net7.0\kt thuc hanh.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\bin\Debug\net7.0\kt thuc hanh.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\bin\Debug\net7.0\kt thuc hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\bin\Debug\net7.0\kt thuc hanh.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\refint\kt thuc hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\kt thuc hanh.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\kt thuc hanh\obj\Debug\net7.0\ref\kt thuc hanh.dll

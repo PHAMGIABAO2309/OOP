@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\bin\Debug\net7.0\luong giao vien.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\bin\Debug\net7.0\luong giao vien.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\bin\Debug\net7.0\luong giao vien.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\bin\Debug\net7.0\luong giao vien.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\bin\Debug\net7.0\luong giao vien.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\refint\luong giao vien.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\luong giao vien.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\luong giao vien\obj\Debug\net7.0\ref\luong giao vien.dll

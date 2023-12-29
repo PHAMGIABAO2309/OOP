@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\bin\Debug\net6.0\tostring.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\bin\Debug\net6.0\tostring.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\bin\Debug\net6.0\tostring.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\bin\Debug\net6.0\tostring.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\bin\Debug\net6.0\tostring.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\refint\tostring.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\tostring.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\bai tap oop\tostring\tostring\obj\Debug\net6.0\ref\tostring.dll
