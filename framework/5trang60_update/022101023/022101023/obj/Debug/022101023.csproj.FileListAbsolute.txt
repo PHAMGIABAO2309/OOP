@@ -1,0 +1,10 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\bin\Debug\022101023.exe.config
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\bin\Debug\022101023.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\bin\Debug\022101023.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\022101023.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\_022101023.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\_022101023.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\022101023.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\022101023.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\022101023.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\022101023\022101023\obj\Debug\022101023.pdb

@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\bin\Debug\net6.0-windows\PictureBox.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\bin\Debug\net6.0-windows\PictureBox.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\bin\Debug\net6.0-windows\PictureBox.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\bin\Debug\net6.0-windows\PictureBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\bin\Debug\net6.0-windows\PictureBox.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\refint\PictureBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\PictureBox.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\PictureBox\PictureBox\PictureBox\obj\Debug\net6.0-windows\ref\PictureBox.dll

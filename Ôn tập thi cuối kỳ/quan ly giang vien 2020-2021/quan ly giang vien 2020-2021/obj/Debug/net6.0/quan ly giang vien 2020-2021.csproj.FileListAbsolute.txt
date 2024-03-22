@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\bin\Debug\net6.0\quan ly giang vien 2020-2021.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\bin\Debug\net6.0\quan ly giang vien 2020-2021.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\bin\Debug\net6.0\quan ly giang vien 2020-2021.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\bin\Debug\net6.0\quan ly giang vien 2020-2021.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\bin\Debug\net6.0\quan ly giang vien 2020-2021.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\refint\quan ly giang vien 2020-2021.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\quan ly giang vien 2020-2021.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\quan ly giang vien 2020-2021\quan ly giang vien 2020-2021\obj\Debug\net6.0\ref\quan ly giang vien 2020-2021.dll

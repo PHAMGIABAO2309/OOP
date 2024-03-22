@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\bin\Debug\Chương 3.exe.config
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\bin\Debug\Chương 3.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\bin\Debug\Chương 3.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\obj\Debug\Chương 3.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\obj\Debug\Chương 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\obj\Debug\Chương 3.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\Chương 3\Chương 3\obj\Debug\Chương 3.pdb

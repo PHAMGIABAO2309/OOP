@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\bin\Debug\net6.0-windows\bài 2 kiểm tra.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\bin\Debug\net6.0-windows\bài 2 kiểm tra.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\bin\Debug\net6.0-windows\bài 2 kiểm tra.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\bin\Debug\net6.0-windows\bài 2 kiểm tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\bin\Debug\net6.0-windows\bài 2 kiểm tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài_2_kiểm_tra.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\refint\bài 2 kiểm tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\ref\bài 2 kiểm tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Bài 2 kiểm tra\bài 2 kiểm tra\bài 2 kiểm tra\obj\Debug\net6.0-windows\bài 2 kiểm tra.sourcelink.json

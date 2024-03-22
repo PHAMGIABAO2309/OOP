@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|f:\\oop\\framework\\022101023\\022101023\\022101023\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B23315CF-23DC-4721-9411-847C82689EC6}|022101023.csproj|solutionrelative:bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:33:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai9.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai9.cs",
+              "RelativeDocumentMoniker": "bai9.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai9.cs",
+              "RelativeToolTip": "bai9.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAlwIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:46:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai9.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai9.cs",
+              "RelativeDocumentMoniker": "bai9.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai9.cs [Design]",
+              "RelativeToolTip": "bai9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:34:27.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai10.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai10.cs",
+              "RelativeDocumentMoniker": "bai10.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\bai10.cs [Design]",
+              "RelativeToolTip": "bai10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:34:47.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai11.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Bai11.cs",
+              "RelativeDocumentMoniker": "Bai11.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Bai11.cs",
+              "RelativeToolTip": "Bai11.cs",
+              "ViewState": "AQIAADsAAAAAmpmZmZkuwEQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:30:13.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai11.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Bai11.cs",
+              "RelativeDocumentMoniker": "Bai11.cs",
+              "ToolTip": "F:\\OOP\\framework\\022101023\\022101023\\022101023\\Bai11.cs [Design]",
+              "RelativeToolTip": "Bai11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:26:24.246Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

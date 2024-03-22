@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\bin\Debug\net6.0-windows\PHIẾU THANH TOÁN.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\bin\Debug\net6.0-windows\PHIẾU THANH TOÁN.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\bin\Debug\net6.0-windows\PHIẾU THANH TOÁN.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\bin\Debug\net6.0-windows\PHIẾU THANH TOÁN.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\bin\Debug\net6.0-windows\PHIẾU THANH TOÁN.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU_THANH_TOÁN.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\refint\PHIẾU THANH TOÁN.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\PHIẾU THANH TOÁN.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\phiếu thanh toán\PHIẾU THANH TOÁN\PHIẾU THANH TOÁN\obj\Debug\net6.0-windows\ref\PHIẾU THANH TOÁN.dll

@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\bin\Debug\net6.0-windows\Nhập Thông Tin.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\bin\Debug\net6.0-windows\Nhập Thông Tin.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\bin\Debug\net6.0-windows\Nhập Thông Tin.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\bin\Debug\net6.0-windows\Nhập Thông Tin.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\bin\Debug\net6.0-windows\Nhập Thông Tin.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập_Thông_Tin.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\refint\Nhập Thông Tin.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\Nhập Thông Tin.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Nhập Thông Tin\Nhập Thông Tin\Nhập Thông Tin\obj\Debug\net6.0-windows\ref\Nhập Thông Tin.dll

@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\bin\Debug\net6.0-windows\bài 8 trang 62.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\bin\Debug\net6.0-windows\bài 8 trang 62.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\bin\Debug\net6.0-windows\bài 8 trang 62.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\bin\Debug\net6.0-windows\bài 8 trang 62.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\bin\Debug\net6.0-windows\bài 8 trang 62.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài_8_trang_62.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\refint\bài 8 trang 62.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\ref\bài 8 trang 62.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 8 trang 62\bài 8 trang 62\bài 8 trang 62\obj\Debug\net6.0-windows\bài 8 trang 62.sourcelink.json

@@ -1,0 +1,22 @@
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\bin\Debug\5trang60_update.exe.config
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\bin\Debug\5trang60_update.exe
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\bin\Debug\5trang60_update.pdb
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.AssemblyReference.cache
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.Form1.resources
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.Properties.Resources.resources
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.GenerateResource.cache
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.CoreCompileInputs.cache
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\5trang60_update.exe
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\5trang60_update.pdb
+C:\Users\theki\code\c#\Công nghệ .Net\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.listview.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\bin\Debug\5trang60_update.exe.config
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\bin\Debug\5trang60_update.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\bin\Debug\5trang60_update.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.listview.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\_5trang60_update.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\5trang60_update.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\5trang60_update.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\5trang60_update\5trang60_update\obj\Debug\5trang60_update.pdb

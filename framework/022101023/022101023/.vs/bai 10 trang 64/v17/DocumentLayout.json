@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\OOP\\framework\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\02210102331\\02210102331\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|f:\\oop\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F871A7-09B4-4122-8C1E-C35C940ED437}|bai 10 trang 64\\bai 10 trang 64.csproj|solutionrelative:bai 10 trang 64\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\OOP\\framework\\bai 9 trang 63\\bai9\\bai9\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai11.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Bai11.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\Bai11.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Bai11.cs",
+              "RelativeToolTip": "bai 10 trang 64\\Bai11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:21:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Program.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\Program.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Program.cs",
+              "RelativeToolTip": "bai 10 trang 64\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:22:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai11.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Bai11.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\Bai11.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Bai11.cs [Design]",
+              "RelativeToolTip": "bai 10 trang 64\\Bai11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:17:52.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\OOP\\framework\\bai 9 trang 63\\bai9\\bai9\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\OOP\\framework\\bai 9 trang 63\\bai9\\bai9\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:29:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai10.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\bai10.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs [Design]",
+              "RelativeToolTip": "bai 10 trang 64\\bai10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:28:43.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Form3.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\Form3.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\Form3.cs [Design]",
+              "RelativeToolTip": "bai 10 trang 64\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:01:34.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bai10.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs",
+              "RelativeDocumentMoniker": "bai 10 trang 64\\bai10.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 10 trang 64\\bai 10 trang 64\\bai 10 trang 64\\bai10.cs",
+              "RelativeToolTip": "bai 10 trang 64\\bai10.cs",
+              "ViewState": "AQIAACYAAAAwzMzMzMwmwDUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:34:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Projects\\02210102331\\02210102331\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Projects\\02210102331\\02210102331\\Form1.cs",
+              "ToolTip": "F:\\Projects\\02210102331\\02210102331\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Projects\\02210102331\\02210102331\\Form1.cs",
+              "ViewState": "AQIAACcAAADAAQAAAAAswCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:29:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\OOP\\framework\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\Form1.cs",
+              "ToolTip": "F:\\OOP\\framework\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\Form1.cs",
+              "RelativeToolTip": "..\\..\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\b\u00E0i 7 trang 61\\Form1.cs",
+              "ViewState": "AQIAABgAAACAmZmZmZkpwCcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:50:21.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

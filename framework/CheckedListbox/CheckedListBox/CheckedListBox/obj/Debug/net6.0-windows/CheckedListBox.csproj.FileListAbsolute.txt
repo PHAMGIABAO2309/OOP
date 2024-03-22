@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\bin\Debug\net6.0-windows\CheckedListBox.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\bin\Debug\net6.0-windows\CheckedListBox.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\bin\Debug\net6.0-windows\CheckedListBox.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\bin\Debug\net6.0-windows\CheckedListBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\bin\Debug\net6.0-windows\CheckedListBox.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\refint\CheckedListBox.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\CheckedListBox.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\CheckedListbox\CheckedListBox\CheckedListBox\obj\Debug\net6.0-windows\ref\CheckedListBox.dll

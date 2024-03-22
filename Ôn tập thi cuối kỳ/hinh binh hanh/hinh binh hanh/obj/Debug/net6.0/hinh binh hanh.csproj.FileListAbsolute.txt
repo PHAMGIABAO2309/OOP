@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\bin\Debug\net6.0\hinh binh hanh.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\bin\Debug\net6.0\hinh binh hanh.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\bin\Debug\net6.0\hinh binh hanh.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\bin\Debug\net6.0\hinh binh hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\bin\Debug\net6.0\hinh binh hanh.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\refint\hinh binh hanh.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\hinh binh hanh.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\hinh binh hanh\hinh binh hanh\obj\Debug\net6.0\ref\hinh binh hanh.dll

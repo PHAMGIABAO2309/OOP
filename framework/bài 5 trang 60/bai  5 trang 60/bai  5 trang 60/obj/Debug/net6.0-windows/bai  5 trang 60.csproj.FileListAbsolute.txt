@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\bin\Debug\net6.0-windows\bai  5 trang 60.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\bin\Debug\net6.0-windows\bai  5 trang 60.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\bin\Debug\net6.0-windows\bai  5 trang 60.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\bin\Debug\net6.0-windows\bai  5 trang 60.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\bin\Debug\net6.0-windows\bai  5 trang 60.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai__5_trang_60.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\refint\bai  5 trang 60.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\bai  5 trang 60.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 5 trang 60\bai  5 trang 60\bai  5 trang 60\obj\Debug\net6.0-windows\ref\bai  5 trang 60.dll

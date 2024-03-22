@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\bin\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\bin\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\bin\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\bin\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\bin\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức_năng_đăng_nhập__đăng_xuất.FormChuongTrinh.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\refint\chức năng đăng nhập, đăng xuất.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức năng đăng nhập, đăng xuất.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\ref\chức năng đăng nhập, đăng xuất.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Đăng Nhập, Đăng Xuất\chức năng đăng nhập, đăng xuất\chức năng đăng nhập, đăng xuất\obj\Debug\net6.0-windows\chức_năng_đăng_nhập__đăng_xuất.FormDangNhap.resources

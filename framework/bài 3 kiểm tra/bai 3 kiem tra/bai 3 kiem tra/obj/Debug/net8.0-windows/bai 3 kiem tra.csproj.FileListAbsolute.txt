@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\bin\Debug\net8.0-windows\bai 3 kiem tra.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\bin\Debug\net8.0-windows\bai 3 kiem tra.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\bin\Debug\net8.0-windows\bai 3 kiem tra.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\bin\Debug\net8.0-windows\bai 3 kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\bin\Debug\net8.0-windows\bai 3 kiem tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai_3_kiem_tra.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\refint\bai 3 kiem tra.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\bai 3 kiem tra.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\bài 3 kiểm tra\bai 3 kiem tra\bai 3 kiem tra\obj\Debug\net8.0-windows\ref\bai 3 kiem tra.dll

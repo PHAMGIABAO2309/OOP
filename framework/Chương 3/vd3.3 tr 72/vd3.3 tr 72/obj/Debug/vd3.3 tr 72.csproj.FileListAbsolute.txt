@@ -1,0 +1,10 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\bin\Debug\vd3.3 tr 72.exe.config
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\bin\Debug\vd3.3 tr 72.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\bin\Debug\vd3.3 tr 72.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3.3 tr 72.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3._3_tr_72.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3._3_tr_72.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3.3 tr 72.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3.3 tr 72.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3.3 tr 72.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\framework\Chương 3\vd3.3 tr 72\vd3.3 tr 72\obj\Debug\vd3.3 tr 72.pdb

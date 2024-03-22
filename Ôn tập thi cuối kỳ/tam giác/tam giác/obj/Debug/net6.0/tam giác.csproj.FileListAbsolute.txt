@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\bin\Debug\net6.0\tam giác.exe
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\bin\Debug\net6.0\tam giác.deps.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\bin\Debug\net6.0\tam giác.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\bin\Debug\net6.0\tam giác.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\bin\Debug\net6.0\tam giác.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\refint\tam giác.dll
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\tam giác.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\OOP\Ôn tập thi cuối kỳ\tam giác\tam giác\obj\Debug\net6.0\ref\tam giác.dll
